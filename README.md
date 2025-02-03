@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SchultzVV.
-- 👀 I’m interested in NATURE.
-- 🌱 I’m currently learning quantum information and MLOps.
-- 💞️ 
+- 👀 I’m interested in NATURE, MLOps and quantum information.
+- 🌱 I’m currently learning LLMOps and Machine Learning Engineering.
 - 📫 How to reach me vitorvazschultz@gmail.com
 
 <!---
