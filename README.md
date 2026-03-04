@@ -2,7 +2,7 @@
 -  🚀 Machine Learning & Backend Engineer | MSc in Quantum Information
 -  🔧 Building scalable ML systems with PySpark, Docker, and CI/CD
 -  🧠 Working on MLOps, computer vision (YOLO, DeepFace), LLMs (RAG, Transformers)
--  ☁️ Deploying to AWS & Azure | Clean code, reproducible pipelines
+-  ☁️ Deploying to AWS & GCP & Azure | Clean code, reproducible pipelines
 -  📊 Time series forecasting | Data pipelines with Kedro, Databricks
 -  🧪 Physics + AI mindset: always pushing the edge of what’s known
 -  👀 I’m interested in NATURE, MLOps and quantum information.
